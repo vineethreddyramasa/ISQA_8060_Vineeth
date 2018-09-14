@@ -1,6 +1,6 @@
 # ISQA_8086_Vineeth
 
-## _This is a personal repository of Vineeth Reddy Ramasahayam for ISQA 8060_ 
+## _This is a personal repository of Vineeth Reddy Ramasahayam for ISQA 8086_ 
 
 ### The List of the files in this repository are:
 1. Background Research.  To view this project click _[here](https://github.com/vineethreddyramasa/ISQA_8060_Vineeth/tree/master/Background%20Research)_ 
