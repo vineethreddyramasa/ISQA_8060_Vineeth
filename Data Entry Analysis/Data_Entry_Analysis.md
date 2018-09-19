@@ -24,6 +24,7 @@ The problems identified in these datasets are as follows:
 4. All the abbreviations have been made to full names to be more clear.
 5. A new column called station name has been added to be more clear where the data is collected.
 6. The graphs can get more clear with clear names for x and y axes.
+7. The files can be given names based on the season they were collected or can be given different version numbers.
 
 #### Table Template
 
