@@ -29,7 +29,7 @@ Dominant riparian trees in the Santa Clara Valley include western sycamore (Plat
 
 Development in the area has eliminated or degraded almost the entire matrix of riparian, willow, and moist grassland present in the valley. As a result, mature riparian habitat is confined to relatively narrow corridors. In addition, flood- and erosion-control measures have channelized portions of Coyote Creek. The area around CCFS remains one of the more relatively undisturbed riparian forests in the valley. However, disturbances include flood control projects such as creation of the overflow channel in 1989/90 (see below) within the site, and recent construction and development of the highway 237 corridor and surrounding business parks and shopping malls.
 
-Santa Clara Valley Water District started an ambitious flood control project during 1980s at Coyote creek Field Station. They established a restoration site at Coyote Creek to grow riparian vegetation as the flood control channel construction involved removal of riparian vegetation. Researching avian use of the restoration sites through a bird banding operation was initially conducted by the Coyote Creek Riparian Station (CCRS), a non-profit that joined with SFBBO in 1999.
+Santa Clara Valley Water District started an ambitious flood control project during 1980s at Coyote creek Field Station. They established a restoration site at Coyote Creek to grow riparian vegetation as the flood control channel construction involved removal of riparian vegetation. Researching avian use of the restoration sites through a bird banding operation was initially conducted by the Coyote Creek Riparian Station (CCRS), a non-profit that joined with SFBBO in 1999 _(Jaramillo et al. 2003)_.
 
 ### What is Bird Banding?
 Bird banding is the attachment of a small aluminum or plastic tag to the leg or wing of a bird to identify each individual bird. Information gained from sightings or recaptures of banded birds helps us to understand their biology and can help in protecting them and their habitats. It also allows researchers to find some fundamental information about birds, like their life-span and movements.
@@ -39,7 +39,7 @@ A basic bird band is usually made of aluminum and often for larger birds, stainl
 
 Color-banding is sometimes used in addition to the basic metal band, making it possible to identify individual birds without recapturing them. These bands are made of plastic, with unique color combinations to identify individual birds. In this way it is possible, for example, to follow the movements and behavior of individuals within a group to learn more about their biology than by using metal bands only.
 
-### Issues Birds Face
+### Issues Birds Face and SFBBO's work in saving them:
 The two main issues that birds face are Habitat Loss and Climate Change. There are several other factors that impact the bird life.
 #### Habitat Loss:
 The biggest threat to Bird Populations is habitat loss. There is a lot of habitat loss around the San Francisco Bay area because of increased human activity. SFBBO is working on projects which include tidal marsh restoration work near Alviso and Redwood City; Snowy Plover habitat enhancements in Hayward; and Burrowing Owl habitat improvements in Fremont and San Jose. They are working to improve the health of these eco systems for birds and other species that rely on them. They are also sharing the results of their work to other organizations who can use the information to improve the habitat around bay area.
@@ -49,12 +49,16 @@ Climate change is another major challenge that all the species are facing. Many 
 Apart from habitat loss and climate change, birds face numerous other issues and threats. These include pollution and pesticides; fire and controlled burning regimes; invasive species; collisions; entanglement and entrapment; predation; disease; and illegal trade in wildlife. SFBBO have some programs to prevent avian diseases. They are also partnering with other agencies and organizations to tackle some of the bird threats like pollution, collisions etc. 
 
 ### References
-1. San Franciso Bay Bird Observatory Website: https://www.sfbbo.org/
+1. San Franciso Bay Bird Observatory Website. Retrieved from. https://www.sfbbo.org/
 
-2. Jaramillo, A., S. E. Hudson, and C. M. Strong. 2003. Coyote Creek Field Station Ten-Year Report. Report to the Santa Clara Valley Water District, San Jose, California.
+2. Jaramillo, A., S. E. Hudson, and C. M. Strong. (2003). Coyote Creek Field Station Ten-Year Report. Report to the Santa Clara Valley Water District, San Jose, California.
 
-3. Bird Banding and Leg Flagging: Retrieved from:Bird Banding Australia: https://www.birdlife.org.au/images/uploads/education_sheets/INFO-bird-banding.pdf
+3. Bird Banding and Leg Flagging. (n.d.). Bird Banding Australia. Retrieved from. https://www.birdlife.org.au/images/uploads/education_sheets/INFO-bird-banding.pdf
 
-4. Adelaide Chen (2011) Bird Banding at Coyote Creek. Retrieved from Milpitas Patch: https://patch.com/california/milpitas/collecting-data-from-birds
+4. Adelaide Chen. (2011). Bird Banding at Coyote Creek. Milpitas Patch. Retrieved from. https://patch.com/california/milpitas/collecting-data-from-birds
 
-5. Bird Banding with the SF Bay Bird Observatory, Bay Nature Institute, July 4, 2012: https://www.youtube.com/watch?v=JNYm4OP0RMk
+5. Bird Banding with the SF Bay Bird Observatory, Bay Nature Institute, (July 4, 2012). Retrieved from. https://www.youtube.com/watch?v=JNYm4OP0RMk
+
+6. Protecting Bay Area Western Snowy Plovers, Albatross, (March/April 2017). Retrieved from. http://scbirdingguide.org/The%20Albatross/61-4.pdf
+
+7. The (Citizen) Science of Bird Banding, Discover's Citizen Science Salon, (September 14, 2015). Retrieved from. http://blogs.discovermagazine.com/citizen-science-salon/2015/09/14/the-citizen-science-of-bird-banding/#.W6u6GWhKiUl
