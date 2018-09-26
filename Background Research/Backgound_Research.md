@@ -54,6 +54,6 @@ Apart from habitat loss and climate change, birds face numerous other issues and
 
 3. Bird Banding and Leg Flagging: Retrieved from:Bird Banding Australia: https://www.birdlife.org.au/images/uploads/education_sheets/INFO-bird-banding.pdf
 
-4. Adelaide Chen (2011) Bird Banding at Coyote Creek. Retrieved from patch: https://patch.com/california/milpitas/collecting-data-from-birds
+4. Adelaide Chen (2011) Bird Banding at Coyote Creek. Retrieved from Milpitas Patch: https://patch.com/california/milpitas/collecting-data-from-birds
 
 5. Bird Banding with the SF Bay Bird Observatory, Bay Nature Institute, July 4, 2012: https://www.youtube.com/watch?v=JNYm4OP0RMk
