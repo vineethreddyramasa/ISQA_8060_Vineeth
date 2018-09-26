@@ -2,15 +2,16 @@
 ## San Franciso Bay Bird Observatory
 
 ### Introduction
-The San Francisco Bay Bird Observatory is a nonprofit organization dedicated to the conservation of birds and their habitats through science and outreach. Birds are excellent indicators of ecosystem health. They are highly visible and cost-effective to track, and are sensitive to environmental change.
+The San Francisco Bay Bird Observatory (SFBBO) is a nonprofit organization dedicated to the conservation of birds and their habitats through science and outreach _(sfbbo.org)_. They are the organization that currently operates the Coyote Creek Field Station (CCFS). Birds are sensitive to environmental changes and are excellent indicators to track the health of the ecosystem. They can be easily tracked because of their high visibility and are also cost-effective to track. 
 
-SFBBO pays close attention to impacts on birds and their habitats and gathers crucial data specific to local bird populations. They provide opportunities for people to be directly involved in the nature and science of the San Francisco Bay Area. 
+SFBBO pays close attention to impacts on birds and their habitats and gathers crucial data specific to local bird populations. They provide opportunities for people to be directly involved in the nature and science of the San Francisco Bay Area _(sfbbo.org)_. 
 
+### History
 San Francisco Bay Bird Observatory was started in 1970 by a collection of bird enthusiasts, including Professor Richard Mewaldt and Michael Rigney of San Jose State University, who began studying the birds that lived on and around the commercial salt ponds of the South Bay. They got support from local residents and started a project to investigate the seasonal use of the ponds by roosting and nesting waterbirds under the auspices of the South Bay Institute for Avian Studies. 
 
 They have been engaging citizen science volunteers to help them collect data. Their mission was to increase public’s understanding of the scientific process, appreciation for birds, and desire to work for conservation.
 
-For more than 35 years, they have been conducting bird banding research on passerines at the Coyote Creek Field Station (CCFS) in Milpitas. Bird banding provides valuable information that helps researchers to study bird dispersal, migration, behavior, social structure, life span, survival rate, reproductive success, and population growth. It also allows them to understand seasonal and long term population patterns of migratory, wintering and year-round resident birds; and track individual birds, which is important in factoring survival, migratory turnover rates, and longevity.
+For more than 35 years, they have been conducting bird banding research on passerines at the Coyote Creek Field Station in Milpitas. Bird banding provides valuable information that helps researchers to study bird dispersal, migration, behavior, social structure, life span, survival rate, reproductive success, and population growth. It also allows them to understand seasonal and long term population patterns of migratory, wintering and year-round resident birds; and track individual birds, which is important in factoring survival, migratory turnover rates, and longevity.
 
 ### Mission
 San Francisco Bay Bird Observatory’s mission is to conserve birds and their habitats through science and outreach. They conduct research and share the data and analysis with resource managers, other scientists, academic institutions, conservation groups, and the public to help our communities use sound science to make informed decisions that affect birds. They also share stories and information about the issues Bay Area birds face and the efforts our communities are making to address them, and offer classroom curriculum and other best practices for educators and community outreach specialists to help them increase the public's understanding of avian science and conservation.
